@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Rahul",
-        "course": "Advanced Python"
+        "name": "shakti gupta",
+        "course": "java"
     },
     {
         "id": 2,
@@ -13,5 +13,10 @@
         "id": 3,
         "name": "Amit",
         "course": "Flask"
+    },
+     {
+        "id": 5,
+        "name": "sattibhan gupta",
+        "course": "Git and GitHub"
     }
 ]
