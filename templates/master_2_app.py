@@ -9,6 +9,9 @@ app = Flask(__name__)
 # -----------------------------
 MONGO_URI = "mongodb+srv://shaktig101101_db_user:C1yoWqhkEj5muHcL@cluster0.sofmx8o.mongodb.net/"
   # Replace <db_password> with your actual password
+  
+# Connect to Atlas
+client = MongoClient(MONGO_URI)
 
 db = client["todo_db"]
 collection = db["items"]
