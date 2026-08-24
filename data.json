@@ -11,12 +11,12 @@
     },
     {
         "id": 3,
-        "name": "Amit",
-        "course": "Flask"
+        "name": "akshay more",
+        "course": "python"
     },
      {
         "id": 5,
-        "name": "sattibhan gupta",
-        "course": "Git and GitHub"
+        "name": "shivam gupta",
+        "course": "MEAN"
     }
 ]
